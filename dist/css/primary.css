@@ -1,0 +1,34 @@
+body {
+	background-color: #202124FF;
+	color: white;
+
+}
+
+
+.hidden,
+.nonce {
+	display: none;
+}
+
+section {
+	padding: 10px 0;
+}
+
+.modal {
+	padding: 0;
+}
+
+.container {
+	width: 75%;
+
+	margin: 0 auto;
+}
+
+body,
+.topline,
+.header,
+.main,
+.footer {
+	position: relative;
+	z-index: 0;
+}
